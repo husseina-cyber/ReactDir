@@ -1,0 +1,38 @@
+#body{
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    height: 410px;
+    margin: 70px;
+    /* border: 1px solid black; */
+    margin-bottom: 0px;
+    margin-top: 1px;
+}
+.content{
+    /* margin: 10px; */
+
+    button{
+        width: 125px;
+        height: 40px;
+        border-radius: 9px;
+        color: white;
+        background-color: black;
+        margin-top: 30px;
+        border: transparent;
+    }
+
+    h1{
+        font-size: 60px;
+    }
+
+
+
+}
+
+.image{
+    
+    
+    img{
+        width: 300px;
+    }
+}

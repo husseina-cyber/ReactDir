@@ -1,0 +1,15 @@
+#bottom{
+    width: 40%;
+    display: flex;
+    gap: 20px;
+    /* border: 1px solid black; */
+    margin: 70px;
+    margin-top: 0px;
+
+    img{
+        
+        height: 17px;
+    }
+    
+    
+}
